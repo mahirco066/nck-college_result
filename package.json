@@ -1,0 +1,9 @@
+{
+  "name": "nkc-results-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "North Kordofan College Results System",
+  "scripts": {
+    "start": "node backend/src/server.js"
+  }
+}
